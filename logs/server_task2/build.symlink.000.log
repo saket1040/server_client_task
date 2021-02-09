@@ -1,0 +1,5 @@
+Symlinking /home/saket1004/catkin_ws2/devel/lib/pkgconfig/server_task2.pc
+Symlinking /home/saket1004/catkin_ws2/devel/lib/server_task2/square_num_server
+Symlinking /home/saket1004/catkin_ws2/devel/lib/server_task2/square_num_client
+Symlinking /home/saket1004/catkin_ws2/devel/share/server_task2/cmake/server_task2Config.cmake
+Symlinking /home/saket1004/catkin_ws2/devel/share/server_task2/cmake/server_task2Config-version.cmake

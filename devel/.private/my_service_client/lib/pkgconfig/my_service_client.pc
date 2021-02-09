@@ -1,0 +1,8 @@
+prefix=/home/saket1004/catkin_ws2/devel/.private/my_service_client
+
+Name: my_service_client
+Description: Description of my_service_client
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: actionlib_msgs roscpp rospy std_msgs

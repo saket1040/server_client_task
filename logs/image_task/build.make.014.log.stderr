@@ -1,0 +1,8 @@
+[01m[K/home/saket1004/catkin_ws2/src/image_task/src/my_image_node3.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/saket1004/catkin_ws2/src/image_task/src/my_image_node3.cpp:39:3:[m[K [01;31m[Kerror: [m[K‘[01m[Kloop_rate[m[K’ was not declared in this scope
+   [01;31m[Kloop_rate[m[K.sleep();
+   [01;31m[K^~~~~~~~~[m[K
+make[2]: *** [CMakeFiles/my_image_node3.dir/src/my_image_node3.cpp.o] Error 1
+make[1]: *** [CMakeFiles/my_image_node3.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+make: *** [all] Error 2

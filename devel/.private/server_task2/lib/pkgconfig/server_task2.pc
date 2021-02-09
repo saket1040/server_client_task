@@ -1,0 +1,8 @@
+prefix=/home/saket1004/catkin_ws2/devel/.private/server_task2
+
+Name: server_task2
+Description: Description of server_task2
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

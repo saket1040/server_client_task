@@ -1,0 +1,4 @@
+[31m[1mCMake Error[0m at /home/saket1004/catkin_ws2/src/server_task1/CMakeLists.txt:72 (generate_messages):
+  Unknown CMake command "generate_messages".
+
+

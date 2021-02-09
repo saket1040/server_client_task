@@ -1,0 +1,5 @@
+[35m[1mScanning dependencies of target square_num_client[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/square_num_client.dir/src/client_node2.cpp.o[0m
+[ 75%] Built target square_num_server
+[100%] [32m[1mLinking CXX executable /home/saket1004/catkin_ws2/devel/.private/server_task2/lib/server_task2/square_num_client[0m
+[100%] Built target square_num_client

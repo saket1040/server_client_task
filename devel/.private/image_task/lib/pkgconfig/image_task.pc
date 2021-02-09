@@ -1,0 +1,8 @@
+prefix=/home/saket1004/catkin_ws2/devel/.private/image_task
+
+Name: image_task
+Description: Description of image_task
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: cv_bridge image_transport roscpp rospy sensor_msgs std_msgs

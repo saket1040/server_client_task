@@ -1,0 +1,21 @@
+[35m[1mScanning dependencies of target mul_two_ints_server[0m
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  0%] Built target actionlib_msgs_generate_messages_py
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_lisp
+[ 20%] [32mBuilding CXX object CMakeFiles/mul_two_ints_server.dir/src/my_node_server.cpp.o[0m
+[ 60%] Built target mul_two_ints_client
+[ 60%] Built target my_service_client_generate_messages_py
+[ 80%] Built target my_service_client_generate_messages_eus
+[ 80%] Built target my_service_client_generate_messages_nodejs
+[ 80%] Built target my_service_client_generate_messages_cpp
+[ 80%] Built target my_service_client_generate_messages_lisp
+[ 80%] Built target my_service_client_generate_messages
+[100%] [32m[1mLinking CXX executable /home/saket1004/catkin_ws2/devel/.private/my_service_client/lib/my_service_client/mul_two_ints_server[0m
+[100%] Built target mul_two_ints_server

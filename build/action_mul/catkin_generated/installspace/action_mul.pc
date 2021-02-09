@@ -1,0 +1,8 @@
+prefix=/home/saket1004/catkin_ws2/install
+
+Name: action_mul
+Description: Description of action_mul
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: actionlib_msgs roscpp rospy std_msgs

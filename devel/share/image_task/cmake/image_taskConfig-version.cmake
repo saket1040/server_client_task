@@ -1,0 +1,1 @@
+/home/saket1004/catkin_ws2/devel/.private/image_task/share/image_task/cmake/image_taskConfig-version.cmake

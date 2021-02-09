@@ -1,0 +1,20 @@
+[35m[1mScanning dependencies of target square_num_client[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/square_num_server.dir/src/server_node2.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/square_num_client.dir/src/client_node2.cpp.o[0m
+[01m[K/home/saket1004/catkin_ws2/src/server_task2/src/server_node2.cpp:[m[K In member function ‘[01m[Kvoid SquareNumServer::onGoal(const SquareNumGoalConstPtr&)[m[K’:
+[01m[K/home/saket1004/catkin_ws2/src/server_task2/src/server_node2.cpp:50:53:[m[K [01;31m[Kerror: [m[K‘[01m[Kmax_number[m[K’ was not declared in this scope
+       feedback.percentage= (double)_counter/(double)[01;31m[Kmax_number[m[K;
+                                                     [01;31m[K^~~~~~~~~~[m[K
+[01m[K/home/saket1004/catkin_ws2/src/server_task2/src/server_node2.cpp:50:53:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[Kmax_sq_number[m[K’
+       feedback.percentage= (double)_counter/(double)[01;36m[Kmax_number[m[K;
+                                                     [01;36m[K^~~~~~~~~~[m[K
+                                                     [32m[Kmax_sq_number[m[K
+CMakeFiles/square_num_server.dir/build.make:62: recipe for target 'CMakeFiles/square_num_server.dir/src/server_node2.cpp.o' failed
+make[2]: *** [CMakeFiles/square_num_server.dir/src/server_node2.cpp.o] Error 1
+CMakeFiles/Makefile2:1000: recipe for target 'CMakeFiles/square_num_server.dir/all' failed
+make[1]: *** [CMakeFiles/square_num_server.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+[ 75%] [32m[1mLinking CXX executable /home/saket1004/catkin_ws2/devel/.private/server_task2/lib/server_task2/square_num_client[0m
+[ 75%] Built target square_num_client
+Makefile:140: recipe for target 'all' failed
+make: *** [all] Error 2

@@ -1,0 +1,8 @@
+prefix=/home/saket1004/catkin_ws2/devel/.private/msg_serv
+
+Name: msg_serv
+Description: Description of msg_serv
+Version: 0.0.0
+Cflags: -I/home/saket1004/catkin_ws2/devel/.private/msg_serv/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs

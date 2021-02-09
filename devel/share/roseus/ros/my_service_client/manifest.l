@@ -1,0 +1,1 @@
+/home/saket1004/catkin_ws2/devel/.private/my_service_client/share/roseus/ros/my_service_client/manifest.l

@@ -1,0 +1,9 @@
+Symlinking /home/saket1004/catkin_ws2/devel/lib/pkgconfig/my_service_client.pc
+Symlinking /home/saket1004/catkin_ws2/devel/lib/python2.7/dist-packages/my_service_client/__init__.py
+Symlinking /home/saket1004/catkin_ws2/devel/lib/my_service_client/mul_two_ints_server
+Symlinking /home/saket1004/catkin_ws2/devel/lib/my_service_client/mul_two_ints_client
+Symlinking /home/saket1004/catkin_ws2/devel/share/roseus/ros/my_service_client/manifest.l
+Symlinking /home/saket1004/catkin_ws2/devel/share/my_service_client/cmake/my_service_client-msg-extras.cmake
+Symlinking /home/saket1004/catkin_ws2/devel/share/my_service_client/cmake/my_service_client-msg-paths.cmake
+Symlinking /home/saket1004/catkin_ws2/devel/share/my_service_client/cmake/my_service_clientConfig-version.cmake
+Symlinking /home/saket1004/catkin_ws2/devel/share/my_service_client/cmake/my_service_clientConfig.cmake
